@@ -11,6 +11,7 @@ sdsdd			),
 
 	class PmsConverter extends Importer {
 		function before_create(&$ad){
+			test
 			// etwas basteln...
 
 
