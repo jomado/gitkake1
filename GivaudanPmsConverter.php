@@ -5,8 +5,8 @@
 
 	$channels = array(
 			array(	'importArgs' => array(	'channel_id' => 6420, 'name' => 'Givaudan',),
-				'readArgs' => array('url' => 'http://jobcenter.prospective.ch/NJCWeb/services/onlinePlatformExport/jobsch?key=JmtvbnRvSWQ9Nzk4Jm1lZGllbklkPTMmc2VjdXJpdHlLZXk9OTIwMDQ0NTUtMTU0YS00MmY4LTg1NWQtODIyYTcwNGYwNjQw', 'decode' => 'utf-8'),	
-			),
+dsdsds				'readArgs' => array('url' => 'http://jobcenter.prospective.ch/NJCWeb/services/onlinePlatformExport/jobsch?key=JmtvbnRvSWQ9Nzk4Jm1lZGllbklkPTMmc2VjdXJpdHlLZXk9OTIwMDQ0NTUtMTU0YS00MmY4LTg1NWQtODIyYTcwNGYwNjQw', 'decode' => 'utf-8'),	
+sdsdd			),
 	);hjbdshjkldfshjkldfjkldfshjkldfsdf
 
 	class PmsConverter extends Importer {
